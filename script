@@ -1,1 +1,1 @@
-loadstring(game:HttpGet(''))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/luascrip/iyversions/main/iyversions.yolasite.com.mainscript.lua'))()
